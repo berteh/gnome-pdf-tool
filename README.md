@@ -16,11 +16,13 @@ Usage
 
 Either run from console (PDF input file is optional)
 
-    cd <your GPDTFool download location> && ./Go_GPDFTool.sh [input.pdf]
+    cd <your GPDTFool download location> && ./go_GPDFTool.sh [input.pdf]
 
-Or install as a nautilus script, right click on a pdf file in nautilus and select ``Script > Edit PDF Metadata``
+Or install as a nautilus script with the commands below, the right click on a pdf file in nautilus and select ``Script > Edit PDF Metadata``
 
-    cd <your GPDTFool download location>/nautilus-script/ && ./install_nautillus-script.sh && nautilus ~/.local/share/nautilus/scripts/ &
+    cd <your GPDTFool download location>/nautilus-script/
+    ./install_nautillus-script.sh
+    nautilus ~/.local/share/nautilus/scripts/ &
 
 More complete documentation, screenshots and how-to is available in [Gayan's review of GPDFTool](http://www.hecticgeek.com/2012/01/simple-pdf-metadata-editor-ubuntu-linux/).
       
