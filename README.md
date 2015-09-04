@@ -1,7 +1,7 @@
 GPDFTool
 ================
 
-Gnome GUI to edit PDF metadata (via pdftk).
+Gnome GUI to edit PDF metadata (via pdftk). Developped by [AnsuzPeorth](http://forum.ubuntu-fr.org/viewtopic.php?id=410841).
 
 Good alternatives: [PDFMtEd](https://github.com/Glutanimate/PDFMtEd) and [PDF Chain](http://pdfchain.sourceforge.net/).
 
@@ -33,6 +33,10 @@ Screenshot
 ---------
 ![GPDFTool interface](doc/screenshot.png)
   
+License
+---------
+[GNU GPL v3](http://www.gnu.org/licenses/gpl.html)
+
 Changelog
 ----------
 2015/09/04
