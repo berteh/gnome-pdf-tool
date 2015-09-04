@@ -22,6 +22,7 @@ Or install as a nautilus script, right click on a pdf file in nautilus and selec
 
     cd <your GPDTFool download location>/nautilus-script/ && ./install_nautillus-script.sh && nautilus ~/.local/share/nautilus/scripts/ &
 
+More complete documentation, screenshots and how-to is available in [Gayan's review of GPDFTool](http://www.hecticgeek.com/2012/01/simple-pdf-metadata-editor-ubuntu-linux/).
       
 Features
 ---------
